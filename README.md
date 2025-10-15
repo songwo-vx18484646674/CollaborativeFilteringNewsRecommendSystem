@@ -4,13 +4,23 @@
 Java语言（SpringBoot和SSM框架两种可选）实现协同过滤算法的个性化新闻推荐系统，使用**基于用户和物品的协同过滤推荐算法**通过爬虫爬取环球日报新闻实现**实时计算推荐**。
 
 ## 智能新闻推荐系统项目在线演示地址：
-[前台演示地址（推荐用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)      
-  
-[后台演示地址（用谷歌浏览器）：http://1.95.71.218:8081/NewsRecommendOnline/admin/login](http://1.95.71.218:8081/NewsRecommendOnline/admin/login)    
+（推荐用谷歌浏览器【1月15左右到期】 ，服务器性能较差，访问有点慢，请稍微等待）
 
-[第二个新闻推荐前台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/](http://1.95.71.218:8090/WebNewsRecommendSystem/)    
+ 第一款（用电脑谷歌浏览器访问）
+ 
+前台用户系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/](http://47.108.171.60:8080/NewsRecommendOnline/)
 
-[第二个新闻推荐后台演示地址：http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login](http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login)     
+后台管理系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/admin/login](http://47.108.171.60:8080/NewsRecommendOnline/admin/login)
+
+
+————————————————————————————
+
+
+第二款（用电脑谷歌浏览器访问）
+前台用户系统访问地址：[http://47.108.171.60:8081/NewsRecommendWeb/](http://47.108.171.60:8081/NewsRecommendWeb/)
+
+后台管理系统访问地址：
+[http://47.108.171.60:8081/NewsRecommendWeb/admin/login](http://47.108.171.60:8081/NewsRecommendWeb/admin/login) 
 
 **源码获取**：点我头像进入我的主页在资源栏目下查找或者下方链接
 [https://download.csdn.net/download/weixin_46115961/88599510](https://download.csdn.net/download/weixin_46115961/88599510)
