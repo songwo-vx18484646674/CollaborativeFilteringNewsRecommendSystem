@@ -5,22 +5,28 @@ Java语言（SpringBoot和SSM框架两种可选）实现协同过滤算法的个
 
 ## 智能新闻推荐系统项目在线演示地址：
 （推荐用谷歌浏览器【1月15左右到期】 ，服务器性能较差，访问有点慢，请稍微等待）
+## 项目在线演示地址：（推荐用谷歌浏览器，服务器性能较差，访问有点慢）：
+服务器性能较低，可能访问比较慢，服务器到期时间（4月22日）
+第1款基于协同过滤算法的个性化新闻推荐系统，在线功能演示地址。
 
- 第一款（用电脑谷歌浏览器访问）
- 
-前台用户系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/](http://47.108.171.60:8080/NewsRecommendOnline/)
+第1款（用电脑浏览器访问）
 
-后台管理系统访问地址：[http://47.108.171.60:8080/NewsRecommendOnline/admin/login](http://47.108.171.60:8080/NewsRecommendOnline/admin/login)
-
-
-————————————————————————————
-
-
-第二款（用电脑谷歌浏览器访问）
-前台用户系统访问地址：[http://47.108.171.60:8081/NewsRecommendWeb/](http://47.108.171.60:8081/NewsRecommendWeb/)
+前台用户系统访问地址：
+[http://8.137.32.208:8081/NewsRecommendWeb/](http://8.137.32.208:8081/NewsRecommendWeb/)
 
 后台管理系统访问地址：
-[http://47.108.171.60:8081/NewsRecommendWeb/admin/login](http://47.108.171.60:8081/NewsRecommendWeb/admin/login) 
+[http://8.137.32.208:8081/NewsRecommendWeb/admin/login](http://8.137.32.208:8081/NewsRecommendWeb/admin/login) 
+
+————————————————————————————————————————————————————————————
+
+第2款基于协同过滤算法的个性化新闻推荐系统，在线功能演示地址。
+第2款（用电脑浏览器访问）
+
+前台用户系统访问地址：
+[http://8.137.32.208:8080/NewsRecommendOnline/](http://8.137.32.208:8080/NewsRecommendOnline/)
+
+后台管理系统访问地址：
+[http://8.137.32.208:8080/NewsRecommendOnline/admin/login](http://8.137.32.208:8080/NewsRecommendOnline/admin/login)
 
 **源码获取**：点我头像进入我的主页在资源栏目下查找或者下方链接
 [https://download.csdn.net/download/weixin_46115961/88599510](https://download.csdn.net/download/weixin_46115961/88599510)
